@@ -54,6 +54,6 @@ Welcome to the ReactJS interview test for building a User Dashboard! This test i
 Good luck, and have fun building your User Dashboard in ReactJS!
 
 ## This is mockup
-![Mockup](https://github.com/NguyenVanHoang19/ReactJS-Interview/assets/64886731/d2a90067-883d-4bba-ad61-4afd00a9b8a0)
+![image](https://github.com/NguyenVanHoang19/ReactJS-Interview/assets/64886731/06a90fcd-2a25-470d-ae84-a89a9577d127)
 
 
